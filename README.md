@@ -1,2 +1,7 @@
 # hello-world
-hello-world is my intro to GitHub. Learning the steps to become a master.
+=============
+
+Hi Humans!
+
+MrDezzy here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earch tacos.
